@@ -1,0 +1,13 @@
+References used to complete Front-End Web Dev Project 3
+
+Javascript & JQuery by Jon Duckett
+Udacity - Object-Oriented JavaScript
+Udacity - HTML5 Canvas
+
+Online sources used to complete Front-End Web Dev Project 3
+Piazza Discussion Board
+Udacity Forum
+http://www.w3schools.com
+http://stackoverflow.com
+
+I would also like to thank Frankie Whispers for the time helping me work through some issues.
